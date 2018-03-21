@@ -1,11 +1,7 @@
 {
   "name": "cookinglab",
   "version": "1.0.0",
-  "description": "A simple cooking website",
-  "main": "index.js",
+  "description": "A simple restaurant website. It uses the Bulma UI Framework",
   "author": "Tomas Toews",
-  "license": "ISC",
-  "dependencies": {
-    "bulma": "^0.6.0"
-  }
+  "license": "ISC"
 }
