@@ -2,4 +2,4 @@
 A simple restaurant website. It uses the Bulma UI Framework
 
 # Live Demo
-https://tomastoews.github.io/cookinglab/
+https://cookinglab.netlify.com/
